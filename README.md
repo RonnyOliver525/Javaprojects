@@ -1,2 +1,0 @@
-# Javaprojects
-Java projects repository
